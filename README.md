@@ -21,4 +21,7 @@ queries controlled by the MySQL Workbench 8.0 CE. HTML and CSS would be at the f
 and provide a graphical user interface that relates to the user, while the MySQL database wil be at 
 the back end to handle the data storage process.
 
-![Screenshot](D:\PICT\Sem-5\dbms_Project\placement_tracker\ss)
+<p align="center">
+<!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
+  <img src="D:\PICT\Sem-5\dbms_Project\placement_tracker\ss" width="350" alt="accessibility text">
+</p>
